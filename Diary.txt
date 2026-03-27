@@ -1,0 +1,52 @@
+Week 1 (Jan 13 2026)
+
+https://www.kaggle.com/datasets/adebusayoadewunmi/nuclearfusion-data
+
+Found an appropriate dataset for KNN on Kaggle. Simulated Nuclear Fusion Experiments.
+Will need a lot of pre-processing to normalize data, as some numbers are in the realms of e^19.
+Used to estimate whether Tokamak, Stellarator, or Reversed Field Pinch configurations are superior.
+Can also predict the effectiveness of Deuterium, Deuterium-Tritium, and Tritium as fuel.
+
+Week 2 (Jan 20 2026)
+Added title ID for first column.
+Made strides in classifying based on Magnetic Field Configuration, Target Composition, and Ignition.
+Model failure, as even with the best value of K, the model remains severely inaccurate.
+New Dataset must be found.
+
+Week 3 (Jan 27 2026)
+Identified a dataset perfect for KNN. Diabetes Risk Prediction Dataset.
+Will need preprocessing for categorical data.
+Used to estimate the risk of an individual developing diabetes;
+Low Risk, High Risk, Prediabetes.
+
+Week 4 (Feb 3 2026)
+Worked out the code for the KNN Model, and confirmed the feasability of using KNN for this dataset.
+Tuned the KNN Model to improve the accuracy, and achieved promising results
+
+Week 5 (Feb 13 2026)
+Added a basic write-up for KNN, outlining the steps taken and conclusions drawn.
+
+Week 6 (Feb 17 2026)
+Found a valid dataset for use with SVM: Lung Cancer Clinical Dataset.
+Will need processing for categorical data, and scaling to eliminate bias.
+Used to estimate whether the patient will survive their cancer, or whether it will metastasise.
+
+Week 7 (Feb 24 2026)
+Trained an SVM Model on the dataset, and tuned it.
+Results seem promising, model is reasonably accurate. Not perfect though.
+Write-up needed.
+
+Week 8 (Mar 3 2026)
+Added a basic write-up for SVM, outlining the steps taken, and conclusions drawn
+
+Week 9 (Mar 10 2026)
+Selected a dataset to train a Convolutional Neural Network. Playing Cards.
+Started researching how to create a CNN in Jupyter Notebooks, using keras.
+
+Week 10 (Mar 17 2026)
+Began coding the CNN, using tensorflow's keras.
+Created 4 Conv2D MaxPooling2D layers, followed by a Flatten-Dense-Dense layer.
+
+Week 11 (Mar 24 2026)
+Finished code for CNN, fitting for 10 epochs and creating a heatmap for the results.
+Extremely high level of accuracy. Write-up needed.
