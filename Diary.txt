@@ -50,3 +50,12 @@ Created 4 Conv2D MaxPooling2D layers, followed by a Flatten-Dense-Dense layer.
 Week 11 (Mar 24 2026)
 Finished code for CNN, fitting for 10 epochs and creating a heatmap for the results.
 Extremely high level of accuracy. Write-up needed.
+
+Week 12 (Mar 31 2026)
+Did a write-up for CNN, found an appropriate dataset for RNN.
+
+Week 13 (Apr 7 2026)
+Finished RNN, predicting Donald Trump Tweets.
+
+Week 14 (Apr 14 2026)
+Started and finished Fuzzy C-Means, using SKLearn's built in Iris dataset.
